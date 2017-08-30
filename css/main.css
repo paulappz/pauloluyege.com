@@ -1312,7 +1312,7 @@ strong,
     height: 200px;
     width: auto;
     border-radius: 50%;
-    border: 5px solid rgba(0, 0, 100, 0.8);
+    border: 5px solid rgba(255, 51, 0, 0.5);
 }
 
 .page-home .content .header {
