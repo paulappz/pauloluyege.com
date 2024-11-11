@@ -28,6 +28,8 @@ Define two blueprints in Port: `youtube_playlist` for playlists and `youtube_vid
   - `thumbnails` (object): Thumbnail images (default, medium, high, standard).
   - `localized` (object): Localized title and description.
 
+---
+
    <details>
      <summary>Configuration mapping for playlist blueprint (click to expand)</summary>
 
@@ -69,6 +71,8 @@ Define two blueprints in Port: `youtube_playlist` for playlists and `youtube_vid
 ```
    </details>
 
+---
+
 ### Video Blueprint (`youtube_video`)
 
 - **Properties**:
@@ -83,6 +87,8 @@ Define two blueprints in Port: `youtube_playlist` for playlists and `youtube_vid
   - `videoOwnerChannelId` (string): ID of the owner channel.
 - **Relationships**:
   - `playlist`: Links to the `youtube_playlist` entity.
+
+---
 
    <details>
      <summary>Configuration mapping for video blueprint (click to expand)</summary>
@@ -129,6 +135,8 @@ Define two blueprints in Port: `youtube_playlist` for playlists and `youtube_vid
 
 ```
    </details>
+
+---
 
 ## Step 2: GitHub Workflow for Data Ingestion
 
