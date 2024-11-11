@@ -395,7 +395,7 @@ if __name__ == "__main__":
 2. **Set up Python**: Configures Python 3.9 environment.
 3. **Install dependencies**: Installs required packages from `requirements.txt`.
 4. **Run YouTube Data Fetch**: Runs `fetch_youtube_data.py` to retrieve YouTube data and prepare it for Port ingestion.
-5. **Bulk Create/Update Entities**: Uses Port’s GitHub action to upsert the playlist and video data.
+5. **Bulk Create/Update Entities**: Uses Port’s GitHub action to bulk upsert the playlist and video data.
 
 ## Step 3: Visualizing Data in Port
 
