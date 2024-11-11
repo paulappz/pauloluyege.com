@@ -2,7 +2,7 @@
 ---
 displayed_sidebar: null
 title:  YouTube Playlist & Videos Catalog in Port
-description: Guild to help you process youTube playlist and video data into Port.
+description: Guild to help you process YouTube playlist and video data into Port.
 ---
 
 import Tabs from "@theme/Tabs"
