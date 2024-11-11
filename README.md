@@ -86,7 +86,7 @@ Define two blueprints in Port: `youtube_playlist` for playlists and `youtube_vid
 
    <details>
      <summary>Configuration mapping for video blueprint (click to expand)</summary>
-
+     
 ```json showLineNumbers
 {
     "identifier": "youtube_video",
@@ -126,6 +126,7 @@ Define two blueprints in Port: `youtube_playlist` for playlists and `youtube_vid
         }
     }
 }
+
 ```
    </details>
 
